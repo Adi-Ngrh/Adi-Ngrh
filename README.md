@@ -5,14 +5,14 @@
 
 ### An enthusiast in developing IoT system. Love to create anything useful.
 
-<h3 align="left">Programming languages i'm familiar with:</h3>
-<p align="left"> 
+<h3>Programming languages i'm familiar with:</h3>
+<p> 
   - C
   - C#
   - Python
 </p>
 
-<h3 align="left">Tools I Usually Use for Developing IoT System :</h3>
+<h3>Tools I Usually Use for Developing IoT System :</h3>
 <p>
   - ESP32 for microcontroller on edge
   - Ubuntu for OS in server
@@ -21,8 +21,8 @@
   - Cloudflare Tunnel to provide easy access from internet without public IP
 </p>
 
-<h3 align="left">How to reach me:</h3>
-<p align="left">
-  Email: **adi.nugroho.59162@outlook.com**
+<h3>How to reach me:</h3>
+<p>
+  <a>Email: adi.nugroho.59162@outlook.com</a>
   <a href="https://linkedin.com/in/adi-ngrh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adi-ngrh" height="30" width="40" /></a>
 </p>
