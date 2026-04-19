@@ -15,6 +15,6 @@
 
 <h3 align="left">Languages and Tools I'm Familiar With:</h3>
 <p align="left"> 
-  <img src="https://img.shields.io/badge/C-%#A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/C-#A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
   
 </p>
