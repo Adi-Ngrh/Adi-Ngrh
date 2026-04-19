@@ -21,7 +21,7 @@
 
 <h3>How to reach me:</h3>
 <p>
-  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adi.nugroho.59162@outlook.com) adi.nugroho.59162@outlook.com
+  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adi.nugroho.59162@outlook.com)
   <br>
   <a href="https://linkedin.com/in/adi-ngrh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adi-ngrh" height="30" width="40" /></a>
 </p>
