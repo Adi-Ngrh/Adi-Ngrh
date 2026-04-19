@@ -6,11 +6,13 @@
 ### An enthusiast in developing IoT system. Love to create anything useful.
 
 <h3>Programming languages i'm familiar with:</h3>
+
 - C
 - C#
 - Python
 
 <h3>Tools I Usually Use for Developing IoT System :</h3>
+
 - ESP32 for microcontroller on edge
 - Ubuntu for OS in server
 - Podman to containerize service
