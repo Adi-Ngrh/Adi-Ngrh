@@ -3,7 +3,7 @@
 
 # I'm Adi Nugroho
 
-### An enthusiast in developing IoT system. Love to create anything useful.
+### An enthusiast in developing IoT system. Love to create a system that solve real problem.
 
 <h3>Programming languages i'm familiar with:</h3>
 
