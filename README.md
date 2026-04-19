@@ -16,5 +16,7 @@
 <h3 align="left">Languages and Tools I'm Familiar With:</h3>
 <p align="left"> 
   <img src="https://cdn.simpleicons.org/c/white" width="40" height="40" alt="C">
+  <img src="https://cdn.simpleicons.org/python/white" width="40" height="40" alt="Python">
+  <img src="https://cdn.simpleicons.org/ubuntu/white" width="40" height="40" alt="Ubuntu">
   
 </p>
