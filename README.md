@@ -20,7 +20,7 @@
 - Ubuntu Server
 - Podman
 - K3s
-- Cloudflare Tunnel
+- Tailscale
 
 <h3>How to reach me:</h3>
 <p>
