@@ -5,7 +5,7 @@
 
 ### An enthusiast in developing IoT system. Love to create a system that solve real problem. Here are some of my projects :
 
-- ESP32-based Device Activation Scheduler ()
+- ESP32-based Device Activation Scheduler (https://github.com/Adi-Ngrh/Remote-Activation-Scheduler)
 
 
 <h3>Programming languages i'm familiar with:</h3>
