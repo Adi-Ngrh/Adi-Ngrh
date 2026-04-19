@@ -13,11 +13,11 @@
 
 <h3>Tools I Usually Use for Developing IoT System :</h3>
 
-- $\color{#F0883E}{\textsf{ESP32}}$
-- $\color{#F0883E}{\textsf{Ubuntu Server}}$
-- $\color{#F0883E}{\textsf{Podman}}$
-- $\color{#F0883E}{\textsf{K3s}}$
-- $\color{#F0883E}{\textsf{Cloudflare Tunnel}}$
+- ESP32
+- Ubuntu Server
+- Podman
+- K3s
+- Cloudflare Tunnel
 
 <h3>How to reach me:</h3>
 <p>
