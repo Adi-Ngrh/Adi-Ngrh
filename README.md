@@ -6,20 +6,16 @@
 ### An enthusiast in developing IoT system. Love to create anything useful.
 
 <h3>Programming languages i'm familiar with:</h3>
-<p align=buttom> 
-  - C
-  - C#
-  - Python
-</p>
+- C
+- C#
+- Python
 
 <h3>Tools I Usually Use for Developing IoT System :</h3>
-<p>
-  - ESP32 for microcontroller on edge
-  - Ubuntu for OS in server
-  - Podman to containerize service
-  - K3s for lightweight container orchestration tool
-  - Cloudflare Tunnel to provide easy access from internet without public IP
-</p>
+- ESP32 for microcontroller on edge
+- Ubuntu for OS in server
+- Podman to containerize service
+- K3s for lightweight container orchestration tool
+- Cloudflare Tunnel to provide easy access from internet without public IP
 
 <h3>How to reach me:</h3>
 <p>
