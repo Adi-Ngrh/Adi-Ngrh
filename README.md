@@ -14,7 +14,7 @@
 - C#
 - Python
 
-<h3>Tools I Usually Use for Developing IoT System :</h3>
+<h3>Tools i usually use for developing IoT system :</h3>
 
 - ESP32
 - Ubuntu Server
