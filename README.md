@@ -24,7 +24,7 @@
 
 <h3>How to reach me:</h3>
 <p>
-  Email : adi.nugroho.59162@outlook.com
+  Email : adi.nugroho.contact@gmail.com
 
   
   <a href="https://linkedin.com/in/adi-ngrh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adi-ngrh" height="30" width="40" /></a>
