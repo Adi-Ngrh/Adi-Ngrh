@@ -3,7 +3,7 @@
 
 # I'm Adi Nugroho
 
-### An enthusiast in developing IoT system. Love to create a system that solve real problem. Some projects i have done :
+### An enthusiast in developing IoT system. Love to create a system that solve real problem. Here are some of my projects :
 
 - ESP32-based Device Activation Scheduler ()
 
