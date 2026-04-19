@@ -18,7 +18,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank" rel="noreferrer"> 
     <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=cpp" alt="c" width="40" height="40"/> </a> 
+    <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer"> 
     <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/unity" target="_blank" rel="noreferrer"> 
