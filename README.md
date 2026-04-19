@@ -6,7 +6,7 @@
 ### An enthusiast in developing IoT system. Love to create anything useful.
 
 <h3>Programming languages i'm familiar with:</h3>
-<p> 
+<p align=buttom> 
   - C
   - C#
   - Python
@@ -23,6 +23,7 @@
 
 <h3>How to reach me:</h3>
 <p>
-  <a>Email: adi.nugroho.59162@outlook.com</a>
+  Email: adi.nugroho.59162@outlook.com
+  <br>
   <a href="https://linkedin.com/in/adi-ngrh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adi-ngrh" height="30" width="40" /></a>
 </p>
