@@ -13,11 +13,11 @@
 
 <h3>Tools I Usually Use for Developing IoT System :</h3>
 
-- $\color{#58A6FF}{\textsf{ESP32}}$ for microcontroller on edge
-- $\color{#58A6FF}{\textsf{Ubuntu}}$ for OS in server
-- $\color{#58A6FF}{\textsf{Podman}}$ to containerize service
-- $\color{#58A6FF}{\textsf{K3s}}$ for lightweight container orchestration tool
-- $\color{#58A6FF}{\textsf{Cloudflare Tunnel}}$ to provide easy access from internet without public IP
+- $\color{#F0883E}{\textsf{ESP32}}$ for microcontroller on edge
+- $\color{#F0883E}{\textsf{Ubuntu}}$ for OS in server
+- $\color{#F0883E}{\textsf{Podman}}$ to containerize service
+- $\color{#F0883E}{\textsf{K3s}}$ for lightweight container orchestration tool
+- $\color{#F0883E}{\textsf{Cloudflare Tunnel}}$ to provide easy access from internet without public IP
 
 <h3>How to reach me:</h3>
 <p>
