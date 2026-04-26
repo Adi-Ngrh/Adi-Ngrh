@@ -14,12 +14,11 @@
 - C#
 - Python
 
-<h3>Tools i usually use for developing IoT system :</h3>
+<h3>Tech stack i usually use for developing IoT system :</h3>
 
 - ESP32
 - Ubuntu Server
 - Podman
-- K3s
 - Tailscale
 
 <h3>How to reach me:</h3>
